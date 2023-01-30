@@ -6,7 +6,7 @@
 - It uses pandas to export into structured csv files
 - It uses Selenium to scrap from the browser
 
-# TODO:
+### TODO:
 Add parallelism
 
 ##### Built with Python
